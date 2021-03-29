@@ -4,11 +4,11 @@ public class Cargo {
     public String type;
     public String auto;
 
-    public int price;
+    public String price;
 //    public int price_delta;
 
-    public float weight;
-    public int number_pal;
+    public String weight;
+    public String number_pal;
     public CargoSize size = new CargoSize();
 
     public String source;
